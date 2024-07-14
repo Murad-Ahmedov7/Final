@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Final Project c#\Final Project c#\obj\Debug\net8.0\Final Project c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Final Project c#\Final Project c#\obj\Debug\net8.0\Final Project c#.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Final Project c#\Final Project c#\obj\Debug\net8.0\Final Project c#.AssemblyInfo.cs
+C:\Users\User\source\repos\Final Project c#\Final Project c#\obj\Debug\net8.0\Final Project c#.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Final Project c#\Final Project c#\bin\Debug\net8.0\Final Project c#.exe
+C:\Users\User\source\repos\Final Project c#\Final Project c#\bin\Debug\net8.0\Final Project c#.deps.json
+C:\Users\User\source\repos\Final Project c#\Final Project c#\bin\Debug\net8.0\Final Project c#.runtimeconfig.json
+C:\Users\User\source\repos\Final Project c#\Final Project c#\bin\Debug\net8.0\Final Project c#.dll
+C:\Users\User\source\repos\Final Project c#\Final Project c#\bin\Debug\net8.0\Final Project c#.pdb
+C:\Users\User\source\repos\Final Project c#\Final Project c#\obj\Debug\net8.0\Final Project c#.dll
+C:\Users\User\source\repos\Final Project c#\Final Project c#\obj\Debug\net8.0\refint\Final Project c#.dll
+C:\Users\User\source\repos\Final Project c#\Final Project c#\obj\Debug\net8.0\Final Project c#.pdb
+C:\Users\User\source\repos\Final Project c#\Final Project c#\obj\Debug\net8.0\Final Project c#.genruntimeconfig.cache
+C:\Users\User\source\repos\Final Project c#\Final Project c#\obj\Debug\net8.0\ref\Final Project c#.dll

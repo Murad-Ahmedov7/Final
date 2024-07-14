@@ -1,0 +1,26 @@
+[
+  {
+    "Products_In_Basket": [
+      {
+        "Category_Name": "Yag Mehsulu",
+        "Product_Name": "Kere yagi",
+        "Product_Price": 3,
+        "Product_Count": 2,
+        "categories": [
+        ]
+      }
+    ]
+  },
+  {
+    "Products_In_Basket": [
+      {
+        "Category_Name": "Yag Mehsulu",
+        "Product_Name": "Kere yagi",
+        "Product_Price": 3,
+        "Product_Count": 1,
+        "categories": [
+        ]
+      }
+    ]
+  }
+]

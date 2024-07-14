@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "e7b47db5-8739-4fea-9acc-33ac5288902f",
+    "Name": "samir",
+    "Surname": "elesgerov",
+    "Email": "a",
+    "Password": "murrrrrrr",
+    "DateOfBirth": "2011-09-21"
+  },
+  {
+    "Id": "6422ddff-da17-4ffb-b026-951c4a6dcde8",
+    "Name": "elnur",
+    "Surname": "babayev",
+    "Email": "21",
+    "Password": "sd",
+    "DateOfBirth": "2001-11-11"
+  },
+  {
+    "Id": "ae7d7252-371c-4629-8639-24fc904c6264",
+    "Name": "emil",
+    "Surname": "xammedov",
+    "Email": "murad",
+    "Password": "haha",
+    "DateOfBirth": "2004-11-21"
+  },
+  {
+    "Id": "f129d09e-a0d7-4a89-9820-c1e996637428",
+    "Name": "tahir",
+    "Surname": "elesgerov",
+    "Email": "ds",
+    "Password": "salam",
+    "DateOfBirth": "2009-01-15"
+  }
+]
